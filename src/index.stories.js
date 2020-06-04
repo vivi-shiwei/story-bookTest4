@@ -143,7 +143,7 @@ const Home = () => {
           </Feature>
                     <Feature icon={MdPalette} title="Themeable">
                         Quickly and easily reference values from your theme throughout your
-                        entire application, on any component.
+                        entire application, on any components.
           </Feature>
                     <Feature icon={MdGrain} title="Composable">
                         Components were built with composition in mind. You can leverage any
